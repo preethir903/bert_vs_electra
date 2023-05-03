@@ -1,7 +1,4 @@
-# w266_final_project
-
-
-The project holds the code for Preethi Raju's w266 final project.
+# BERT vs. Electra for political sentiment
 
 Inside the model folder, BERT_tuning has the majority of the code for the experiments. 
 
